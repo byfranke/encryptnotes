@@ -9,9 +9,13 @@ This Python script provides functionalities for encrypting, managing, and intera
 # Key Features:
 
 • Secure Encryption: Utilizes the cryptography library to encrypt notes, safeguarding them with dynamic keys and passwords.
+
 • SQLite Database: Organizes notes systematically within an SQLite database for easy management.
+
 • Command-Line Interface (CLI): Offers a simple interface for interaction, allowing actions such as adding, editing, deleting, importing, and exporting notes.
+
 • Search and Filtering: Employs advanced search capabilities, enabling keyword searches within encrypted notes.
+
 • TXT Import and Export: Facilitates the import of content from TXT files to create new notes and exports notes to TXT files.
 
 
